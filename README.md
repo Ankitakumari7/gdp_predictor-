@@ -29,6 +29,10 @@ R-squared Score (R2_Score): 0.8839
 
 I have created a web app using streamlit library to deploy the final model. In the app, the user can input the different attributes of a certain country, and click a button in order to get the estimated GDP per capita for that country.
 
+[Click here](https://share.streamlit.io/zeglam/countries-gdp-prediction/app.py)
+
+
+
 
 
 
